@@ -1,5 +1,5 @@
 # mmPose
-Open-Source Toolbox for Human Skeletal Pose Estimation using mmWave Radars
+An Open-Source Toolbox for Human Pose Estimation using mmWave Radars
 ---
 #### PI: [Dr. Siyang Cao](https://uweb.engr.arizona.edu/~caos/)
 #### Project Members: [Arindam Sengupta](https://github.com/senguptaa) & [Feng Jin](https://github.com/fengjin-uofarizona)
